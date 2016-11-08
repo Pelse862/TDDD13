@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <!-- checked -->
+    <item android:drawable="unchecked"
+        android:state_checked="false">
+        <color android:color="#000000"></color>
+    </item>
+
+    <!-- unchecked -->
+    <item android:drawable="checked"
+        android:state_focused="true">
+        <color android:color="#000000"></color>
+    </item>
+
+    <!-- default -->
+
+
+</selector>
